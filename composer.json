@@ -1,0 +1,17 @@
+{
+    "name": "sramitroy/social",
+    "description": "implementation of social authentication's specification for php",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~7.0|~6.0|~5.0|~4.8.35"
+    },
+    "autoload": {
+        "psr-4": {
+            "Soft\\": "src/"
+        }
+    }
+}
