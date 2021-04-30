@@ -1,10 +1,5 @@
 # SRAMITROY/SOCIAL Directory
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/dnoegel/php-xdg-base-dir.svg?style=flat-square)](https://packagist.org/packages/dnoegel/php-xdg-base-dir)
-[![Total Downloads](https://img.shields.io/packagist/dt/dnoegel/php-xdg-base-dir.svg?style=flat-square)](https://packagist.org/packages/dnoegel/php-xdg-base-dir)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/dnoegel/php-xdg-base-dir/master.svg?style=flat-square)](https://travis-ci.org/dnoegel/php-xdg-base-dir)
-
 Implementation of Social Authentication for php
 
 ## Install
