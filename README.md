@@ -21,7 +21,7 @@ $ composer require sramitroy/social
   	 'redirect_uri'=>'YOUR_REDIRECT_URL',
   	 'client_secret'=>'YOUR_CLIENT_SECREAT',
   ]);
-  $url= $gObject->LogInUr(); //return Google Login URL
+  $url= $gObject->LogInUrl(); //return Google Login URL
 ```
 
 ``` php
