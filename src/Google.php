@@ -39,7 +39,7 @@ class Google
      * @getGoogleLogInUr
      * @return string Returns the phrase passed in
      */
-    public function LogInUr()
+    public function LogInUrl()
     {   
         $oauth2Url     = self::$oauth2Url;
         $response_type = $this->response_type;
